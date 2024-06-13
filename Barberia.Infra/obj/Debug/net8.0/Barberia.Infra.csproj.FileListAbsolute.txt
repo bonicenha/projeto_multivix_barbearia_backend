@@ -1,0 +1,16 @@
+C:\projeto\projeto_multivix_barbearia_backend\Barberia.Infra\bin\Debug\net8.0\Barberia.Infra.deps.json
+C:\projeto\projeto_multivix_barbearia_backend\Barberia.Infra\bin\Debug\net8.0\Barberia.Infra.dll
+C:\projeto\projeto_multivix_barbearia_backend\Barberia.Infra\bin\Debug\net8.0\Barberia.Infra.pdb
+C:\projeto\projeto_multivix_barbearia_backend\Barberia.Infra\bin\Debug\net8.0\Barbearia.Dominio.dll
+C:\projeto\projeto_multivix_barbearia_backend\Barberia.Infra\bin\Debug\net8.0\Barbearia.Dominio.pdb
+C:\projeto\projeto_multivix_barbearia_backend\Barberia.Infra\obj\Debug\net8.0\Barberia.Infra.csproj.AssemblyReference.cache
+C:\projeto\projeto_multivix_barbearia_backend\Barberia.Infra\obj\Debug\net8.0\Barberia.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\projeto\projeto_multivix_barbearia_backend\Barberia.Infra\obj\Debug\net8.0\Barberia.Infra.AssemblyInfoInputs.cache
+C:\projeto\projeto_multivix_barbearia_backend\Barberia.Infra\obj\Debug\net8.0\Barberia.Infra.AssemblyInfo.cs
+C:\projeto\projeto_multivix_barbearia_backend\Barberia.Infra\obj\Debug\net8.0\Barberia.Infra.csproj.CoreCompileInputs.cache
+C:\projeto\projeto_multivix_barbearia_backend\Barberia.Infra\obj\Debug\net8.0\Barberia.Infra.sourcelink.json
+C:\projeto\projeto_multivix_barbearia_backend\Barberia.Infra\obj\Debug\net8.0\Barberia.07279B5A.Up2Date
+C:\projeto\projeto_multivix_barbearia_backend\Barberia.Infra\obj\Debug\net8.0\Barberia.Infra.dll
+C:\projeto\projeto_multivix_barbearia_backend\Barberia.Infra\obj\Debug\net8.0\refint\Barberia.Infra.dll
+C:\projeto\projeto_multivix_barbearia_backend\Barberia.Infra\obj\Debug\net8.0\Barberia.Infra.pdb
+C:\projeto\projeto_multivix_barbearia_backend\Barberia.Infra\obj\Debug\net8.0\ref\Barberia.Infra.dll

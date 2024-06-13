@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Barbearia.DataTransfer/1.0.0": {
+        "dependencies": {
+          "Barbearia.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "Barbearia.DataTransfer.dll": {}
+        }
+      },
+      "Barbearia.Dominio/1.0.0": {
+        "runtime": {
+          "Barbearia.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Barbearia.DataTransfer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Barbearia.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

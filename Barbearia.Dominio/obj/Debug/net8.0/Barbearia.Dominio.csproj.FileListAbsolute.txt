@@ -1,0 +1,12 @@
+C:\projeto\projeto_multivix_barbearia_backend\Barbearia.Dominio\bin\Debug\net8.0\Barbearia.Dominio.deps.json
+C:\projeto\projeto_multivix_barbearia_backend\Barbearia.Dominio\bin\Debug\net8.0\Barbearia.Dominio.dll
+C:\projeto\projeto_multivix_barbearia_backend\Barbearia.Dominio\bin\Debug\net8.0\Barbearia.Dominio.pdb
+C:\projeto\projeto_multivix_barbearia_backend\Barbearia.Dominio\obj\Debug\net8.0\Barbearia.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\projeto\projeto_multivix_barbearia_backend\Barbearia.Dominio\obj\Debug\net8.0\Barbearia.Dominio.AssemblyInfoInputs.cache
+C:\projeto\projeto_multivix_barbearia_backend\Barbearia.Dominio\obj\Debug\net8.0\Barbearia.Dominio.AssemblyInfo.cs
+C:\projeto\projeto_multivix_barbearia_backend\Barbearia.Dominio\obj\Debug\net8.0\Barbearia.Dominio.csproj.CoreCompileInputs.cache
+C:\projeto\projeto_multivix_barbearia_backend\Barbearia.Dominio\obj\Debug\net8.0\Barbearia.Dominio.sourcelink.json
+C:\projeto\projeto_multivix_barbearia_backend\Barbearia.Dominio\obj\Debug\net8.0\Barbearia.Dominio.dll
+C:\projeto\projeto_multivix_barbearia_backend\Barbearia.Dominio\obj\Debug\net8.0\refint\Barbearia.Dominio.dll
+C:\projeto\projeto_multivix_barbearia_backend\Barbearia.Dominio\obj\Debug\net8.0\Barbearia.Dominio.pdb
+C:\projeto\projeto_multivix_barbearia_backend\Barbearia.Dominio\obj\Debug\net8.0\ref\Barbearia.Dominio.dll

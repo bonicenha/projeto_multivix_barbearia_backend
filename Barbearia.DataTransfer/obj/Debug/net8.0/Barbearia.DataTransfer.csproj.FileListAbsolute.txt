@@ -1,0 +1,16 @@
+C:\projeto\projeto_multivix_barbearia_backend\Barbearia.DataTransfer\bin\Debug\net8.0\Barbearia.DataTransfer.deps.json
+C:\projeto\projeto_multivix_barbearia_backend\Barbearia.DataTransfer\bin\Debug\net8.0\Barbearia.DataTransfer.dll
+C:\projeto\projeto_multivix_barbearia_backend\Barbearia.DataTransfer\bin\Debug\net8.0\Barbearia.DataTransfer.pdb
+C:\projeto\projeto_multivix_barbearia_backend\Barbearia.DataTransfer\bin\Debug\net8.0\Barbearia.Dominio.dll
+C:\projeto\projeto_multivix_barbearia_backend\Barbearia.DataTransfer\bin\Debug\net8.0\Barbearia.Dominio.pdb
+C:\projeto\projeto_multivix_barbearia_backend\Barbearia.DataTransfer\obj\Debug\net8.0\Barbearia.DataTransfer.csproj.AssemblyReference.cache
+C:\projeto\projeto_multivix_barbearia_backend\Barbearia.DataTransfer\obj\Debug\net8.0\Barbearia.DataTransfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\projeto\projeto_multivix_barbearia_backend\Barbearia.DataTransfer\obj\Debug\net8.0\Barbearia.DataTransfer.AssemblyInfoInputs.cache
+C:\projeto\projeto_multivix_barbearia_backend\Barbearia.DataTransfer\obj\Debug\net8.0\Barbearia.DataTransfer.AssemblyInfo.cs
+C:\projeto\projeto_multivix_barbearia_backend\Barbearia.DataTransfer\obj\Debug\net8.0\Barbearia.DataTransfer.csproj.CoreCompileInputs.cache
+C:\projeto\projeto_multivix_barbearia_backend\Barbearia.DataTransfer\obj\Debug\net8.0\Barbearia.DataTransfer.sourcelink.json
+C:\projeto\projeto_multivix_barbearia_backend\Barbearia.DataTransfer\obj\Debug\net8.0\Barbeari.950F973F.Up2Date
+C:\projeto\projeto_multivix_barbearia_backend\Barbearia.DataTransfer\obj\Debug\net8.0\Barbearia.DataTransfer.dll
+C:\projeto\projeto_multivix_barbearia_backend\Barbearia.DataTransfer\obj\Debug\net8.0\refint\Barbearia.DataTransfer.dll
+C:\projeto\projeto_multivix_barbearia_backend\Barbearia.DataTransfer\obj\Debug\net8.0\Barbearia.DataTransfer.pdb
+C:\projeto\projeto_multivix_barbearia_backend\Barbearia.DataTransfer\obj\Debug\net8.0\ref\Barbearia.DataTransfer.dll

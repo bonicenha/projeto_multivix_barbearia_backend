@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="FluentNHibernate" Version="3.3.0" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.3" />
+    <PackageReference Include="MySql.Data" Version="8.2.0" />
+    <PackageReference Include="MySqlConnector" Version="2.3.3" />
+    <PackageReference Include="NHibernate" Version="5.4.7" />
+    <PackageReference Include="Scrutor" Version="4.2.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Barbearia.Aplicacao\Barbearia.Aplicacao.csproj" />
+    <ProjectReference Include="..\Barbearia.DataTransfer\Barbearia.DataTransfer.csproj" />
+    <ProjectReference Include="..\Barbearia.Dominio\Barbearia.Dominio.csproj" />
+    <ProjectReference Include="..\Barberia.Infra\Barberia.Infra.csproj" />
+  </ItemGroup>
+
+</Project>

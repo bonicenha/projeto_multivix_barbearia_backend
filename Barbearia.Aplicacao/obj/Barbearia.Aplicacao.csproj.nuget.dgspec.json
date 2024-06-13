@@ -1,0 +1,286 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\projeto\\projeto_multivix_barbearia_backend\\Barbearia.Aplicacao\\Barbearia.Aplicacao.csproj": {}
+  },
+  "projects": {
+    "C:\\projeto\\projeto_multivix_barbearia_backend\\Barbearia.Aplicacao\\Barbearia.Aplicacao.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\projeto\\projeto_multivix_barbearia_backend\\Barbearia.Aplicacao\\Barbearia.Aplicacao.csproj",
+        "projectName": "Barbearia.Aplicacao",
+        "projectPath": "C:\\projeto\\projeto_multivix_barbearia_backend\\Barbearia.Aplicacao\\Barbearia.Aplicacao.csproj",
+        "packagesPath": "C:\\Users\\luafr\\.nuget\\packages\\",
+        "outputPath": "C:\\projeto\\projeto_multivix_barbearia_backend\\Barbearia.Aplicacao\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\luafr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\projeto\\projeto_multivix_barbearia_backend\\Barbearia.DataTransfer\\Barbearia.DataTransfer.csproj": {
+                "projectPath": "C:\\projeto\\projeto_multivix_barbearia_backend\\Barbearia.DataTransfer\\Barbearia.DataTransfer.csproj"
+              },
+              "C:\\projeto\\projeto_multivix_barbearia_backend\\Barbearia.Dominio\\Barbearia.Dominio.csproj": {
+                "projectPath": "C:\\projeto\\projeto_multivix_barbearia_backend\\Barbearia.Dominio\\Barbearia.Dominio.csproj"
+              },
+              "C:\\projeto\\projeto_multivix_barbearia_backend\\Barberia.Infra\\Barberia.Infra.csproj": {
+                "projectPath": "C:\\projeto\\projeto_multivix_barbearia_backend\\Barberia.Infra\\Barberia.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentNHibernate": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "NPOI": {
+              "target": "Package",
+              "version": "[2.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\projeto\\projeto_multivix_barbearia_backend\\Barbearia.DataTransfer\\Barbearia.DataTransfer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\projeto\\projeto_multivix_barbearia_backend\\Barbearia.DataTransfer\\Barbearia.DataTransfer.csproj",
+        "projectName": "Barbearia.DataTransfer",
+        "projectPath": "C:\\projeto\\projeto_multivix_barbearia_backend\\Barbearia.DataTransfer\\Barbearia.DataTransfer.csproj",
+        "packagesPath": "C:\\Users\\luafr\\.nuget\\packages\\",
+        "outputPath": "C:\\projeto\\projeto_multivix_barbearia_backend\\Barbearia.DataTransfer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\luafr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\projeto\\projeto_multivix_barbearia_backend\\Barbearia.Dominio\\Barbearia.Dominio.csproj": {
+                "projectPath": "C:\\projeto\\projeto_multivix_barbearia_backend\\Barbearia.Dominio\\Barbearia.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\projeto\\projeto_multivix_barbearia_backend\\Barbearia.Dominio\\Barbearia.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\projeto\\projeto_multivix_barbearia_backend\\Barbearia.Dominio\\Barbearia.Dominio.csproj",
+        "projectName": "Barbearia.Dominio",
+        "projectPath": "C:\\projeto\\projeto_multivix_barbearia_backend\\Barbearia.Dominio\\Barbearia.Dominio.csproj",
+        "packagesPath": "C:\\Users\\luafr\\.nuget\\packages\\",
+        "outputPath": "C:\\projeto\\projeto_multivix_barbearia_backend\\Barbearia.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\luafr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\projeto\\projeto_multivix_barbearia_backend\\Barberia.Infra\\Barberia.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\projeto\\projeto_multivix_barbearia_backend\\Barberia.Infra\\Barberia.Infra.csproj",
+        "projectName": "Barberia.Infra",
+        "projectPath": "C:\\projeto\\projeto_multivix_barbearia_backend\\Barberia.Infra\\Barberia.Infra.csproj",
+        "packagesPath": "C:\\Users\\luafr\\.nuget\\packages\\",
+        "outputPath": "C:\\projeto\\projeto_multivix_barbearia_backend\\Barberia.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\luafr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\projeto\\projeto_multivix_barbearia_backend\\Barbearia.Dominio\\Barbearia.Dominio.csproj": {
+                "projectPath": "C:\\projeto\\projeto_multivix_barbearia_backend\\Barbearia.Dominio\\Barbearia.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentNHibernate": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.3.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
