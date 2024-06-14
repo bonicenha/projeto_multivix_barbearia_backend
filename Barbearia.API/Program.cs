@@ -86,12 +86,12 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI(c =>
             {
-                c.SwaggerEndpoint("../swagger/v1/swagger.json", "Barbearia");
+                c.SwaggerEndpoint("../swagger/v1/swagger.json", "SistemaFinanceiro");
                 c.DisplayRequestDuration();
             });
 }
 
-var cliente = "http://localhost:5150";
+var cliente = "http://localhost:4200";
 app.UseCors(x =>
 x.AllowAnyOrigin()
 .AllowAnyMethod()
