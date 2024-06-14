@@ -5,7 +5,7 @@ using Barbearia.Dominio.Util;
 
 namespace Barbearia.Aplicacao.Servicos.Servicos.Interfaces
 {
-    public interface IServicosAppServicos
+    public interface IServicosAppServico
     {
         PaginacaoConsulta<ServicoResponse> Listar(ServicoListarRequest request);
         ServicoResponse Recuperar(int id);

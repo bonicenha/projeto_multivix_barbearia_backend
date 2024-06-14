@@ -1,7 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using AutoMapper;
 using Barbearia.DataTransfer.Servicos.Request;
 using Barbearia.DataTransfer.Servicos.Response;

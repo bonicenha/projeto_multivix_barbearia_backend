@@ -12,7 +12,7 @@ using Barbearia.Dominio.Util;
 
 namespace Barbearia.Aplicacao.Servicos.Servicos
 {
-    public class ServicosAppServico : IServicosAppServicos
+    public class ServicosAppServico : IServicosAppServico
     {
         private readonly IServicosRepositorio servicosRepositorio;
         private readonly IServicosServico servicosServico;
@@ -79,7 +79,8 @@ namespace Barbearia.Aplicacao.Servicos.Servicos
         public ServicoResponse Recuperar(int id)
         {
             Servico servico = servicosServico.Validar(id);
-            return mapper.Map<ServicoResponse>(servico);
+            var response = mapper.Map<ServicoResponse>(servico);
+            return response;
         }
 
         public void Excluir(int id)

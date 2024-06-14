@@ -91,7 +91,7 @@ if (app.Environment.IsDevelopment())
             });
 }
 
-var cliente = "http://localhost:4200";
+var cliente = "http://localhost:5150";
 app.UseCors(x =>
 x.AllowAnyOrigin()
 .AllowAnyMethod()
